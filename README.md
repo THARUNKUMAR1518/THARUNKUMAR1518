@@ -67,7 +67,7 @@ A few things I care about, in motion rather than a wall of text — I build with
 
 </div>
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
