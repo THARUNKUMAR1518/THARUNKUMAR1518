@@ -23,7 +23,7 @@
 
 ---
 
-## 🎞️ Tech Marquee
+## 🎞️ Tech Skill
 
 <div align="center">
 
