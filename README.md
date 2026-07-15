@@ -1,352 +1,66 @@
-<!-- ===================================================== -->
-<!--            ULTRA PREMIUM GITHUB PROFILE               -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:00E5FF,100:00FFB3&text=THARUN%20KUMAR&fontSize=60&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Researcher&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F0C29,50:302B63,100:24243E&text=THARUN%20KUMAR&fontSize=48&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20·%20Full%20Stack%20Developer&descAlignY=62&descSize=16&descColor=B8B5FF"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&random=false&width=900&lines=Artificial+Intelligence+Engineer;Full+Stack+Developer;Machine+Learning+Researcher;Computer+Vision+Developer;Generative+AI+%26+LLM+Builder;Cloud+%26+DevOps+Explorer;Open+Source+Contributor;Building+the+Future+with+AI+%F0%9F%9A%80"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?logo=github&style=for-the-badge&color=00E5FF&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=00FFB3&label=STARS"/>
-<img src="https://img.shields.io/badge/Guinness%20World%20Record-FFD700?style=for-the-badge&logo=trophy&logoColor=black"/>
-<img src="https://img.shields.io/badge/NASA%20Space%20Apps-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-141327?style=flat-square&logo=linkedin&logoColor=8A85FF"/></a>
+<a href="mailto:YOUR_GMAIL"><img src="https://img.shields.io/badge/-Gmail-141327?style=flat-square&logo=gmail&logoColor=8A85FF"/></a>
+<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/-Portfolio-141327?style=flat-square&logo=googlechrome&logoColor=8A85FF"/></a>
+<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/-Twitter-141327?style=flat-square&logo=x&logoColor=8A85FF"/></a>
+<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/-LeetCode-141327?style=flat-square&logo=leetcode&logoColor=8A85FF"/></a>
 
 </div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_GMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://medium.com/@YOUR_MEDIUM"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-
-</div>
-
----
-
-## 🎞️ Tech Marquee
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js,python,java,nodejs,spring,django,flask,fastapi,go,rust,cs,dotnet,php" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase,sqlite,docker,kubernetes,aws,azure,gcp,vercel,netlify,cloudflare,git,github,linux" />
-
-</div>
-
-<p align="center"><i>🔁 A scrolling snapshot of my everyday toolkit — see the full arsenal below.</i></p>
-
----
-
-## 💫 About Me
-
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=00E5FF&center=false&vCenter=true&width=560&lines=%F0%9F%A7%A0+Turning+ideas+into+intelligent+systems;%E2%9A%A1+Shipping+AI+products+that+solve+real+problems;%F0%9F%8C%90+Full+stack+today%2C+autonomous+agents+tomorrow;%F0%9F%9A%80+Currently+deep+in+LLMs+%2B+Cloud+Native"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/-AI%20Engineer-6C63FF?style=flat-square&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/-Full%20Stack%20Dev-00E5FF?style=flat-square&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/-Researcher-00FFB3?style=flat-square&labelColor=1a1a1a"/>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=8A85FF&center=true&vCenter=true&width=650&lines=I+build+systems%2C+not+just+features;AI+today%2C+autonomous+agents+tomorrow;Currently+deep+in+LLMs+%2B+cloud+native"/>
+</div>
 
-A few things I care about, in motion rather than a wall of text — I build with AI, ship full stack products, and I'm always mid-way through learning the next framework before the last one's even finished cooling down.
+<br/>
+
+## about
+
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+I design and ship intelligent products end to end — from model to interface to infrastructure. Most of my time lately goes into LLM-driven systems, the full stack around them, and cloud-native ways of running it all reliably. Guinness World Record holder and NASA Space Apps finalist, but I'd rather let the work do the talking.
 
 <br clear="right"/>
 
----
+## stack
 
-## 🚀 Current Mission
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,nodejs,fastapi,go&theme=dark"/>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/><code>&nbsp;LangChain&nbsp;</code><code>&nbsp;RAG&nbsp;</code><code>&nbsp;Hugging&nbsp;Face&nbsp;</code><code>&nbsp;AI&nbsp;Agents&nbsp;</code>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,aws,gcp,git&theme=dark"/>
+</p>
 
-| | |
-|---|---|
-| ✅ Build AI Products | ✅ Solve Real World Problems |
-| ✅ Research AI Models | ✅ Develop Intelligent Systems |
-| ✅ Contribute to Open Source | ✅ Learn New Technologies Daily |
-
----
-
-## 🏆 Achievements & Recognitions
+## achievements
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/🥇_Guinness_World_Record_Holder-FFD700?style=for-the-badge&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/🌍_NASA_Space_Apps_Finalist-0B3D91?style=for-the-badge&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/🏅_Young_Scientist_Award-C0392B?style=for-the-badge&labelColor=1a1a1a"/>
-<br/>
-<img src="https://img.shields.io/badge/🚀_AI_Research_Enthusiast-6C63FF?style=for-the-badge&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/💻_Founder_%26_Full_Stack_Dev-00E5FF?style=for-the-badge&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/🤖_AI%2FML_Developer-00FFB3?style=for-the-badge&labelColor=1a1a1a"/>
-<br/>
-<img src="https://img.shields.io/badge/📚_Lifelong_Learner-FF6B6B?style=for-the-badge&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/🛰️_Space_Tech_Researcher-4B0082?style=for-the-badge&labelColor=1a1a1a"/>
-
+<img src="https://img.shields.io/badge/Guinness%20World%20Record-141327?style=flat-square&labelColor=141327&color=8A85FF"/>
+<img src="https://img.shields.io/badge/NASA%20Space%20Apps%20Finalist-141327?style=flat-square&labelColor=141327&color=8A85FF"/>
+<img src="https://img.shields.io/badge/Young%20Scientist%20Award-141327?style=flat-square&labelColor=141327&color=8A85FF"/>
 </div>
 
----
-
-## ⚡ Fun Facts
+## activity
 
 <div align="center">
 
-🧩 Love solving complex engineering problems &nbsp;•&nbsp; 🚀 Passionate about AI &nbsp;•&nbsp; 🌎 Building impactful software
-<br/>
-🤖 Exploring LLMs & AI Agents &nbsp;•&nbsp; ☁️ Cloud Native Developer &nbsp;•&nbsp; ☕ Coffee + Code = Productivity
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&title_color=8A85FF&icon_color=8A85FF&text_color=c9d1d9&bg_color=0D0B1F"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=8A85FF&text_color=c9d1d9&bg_color=0D0B1F"/>
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&bg_color=0D0B1F&color=8A85FF&line=8A85FF&point=ffffff&area=true&area_color=302B63"/>
 
----
-
-## 💻 Tech Arsenal
-
-### 🎨 Frontend Development
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,materialui,js,ts,jquery,react,redux,nextjs,vite,vue,nuxt,angular,threejs"/>
-</p>
-
-### ⚙️ Backend Development
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,flask,fastapi,django,php,dotnet,go,rust,cs"/>
-</p>
-
-### 🤖 AI & Machine Learning
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,anaconda,jupyter"/>
-</p>
-
-`Machine Learning` `Deep Learning` `Computer Vision` `NLP` `Reinforcement Learning` `Transfer Learning` `CNN` `RNN` `LSTM` `GANs` `YOLO` `Detectron2` `OCR` `Tesseract OCR` `MediaPipe` `Hugging Face Transformers` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn` `XGBoost` `LightGBM` `CatBoost`
-
-### 🧠 Generative AI & LLM Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,docker,github,vscode"/>
-</p>
-
-`OpenAI API` `GPT-4 / GPT-5` `LangChain` `LangGraph` `Ollama` `Hugging Face` `Llama` `Mistral` `Gemini` `Claude` `RAG` `ChromaDB` `Pinecone` `FAISS` `Prompt Engineering` `AI Agents` `CrewAI` `AutoGen` `n8n AI Automation`
-
-### 🗄️ Databases
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,sqlite,supabase,redis"/>
-</p>
-
-`Oracle DB` `SQL Server` `MariaDB` `Cassandra` `Neo4j` `Elasticsearch`
-
-### ☁️ Cloud Technologies
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,netlify,vercel,firebase"/>
-</p>
-
-`EC2` `S3` `Lambda` `IAM` `CloudFront` `Azure App Service` `Azure Functions` `GCE` `Firebase Hosting` `Vercel Deployment`
-
-### 🐳 DevOps & CI/CD
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,linux,bash,nginx"/>
-</p>
-
-`Docker Compose` `Jenkins` `GitHub Actions` `GitLab CI/CD` `Terraform` `Ansible` `Helm`
-
-### 📊 Data Science
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,r"/>
-</p>
-
-`Pandas` `NumPy` `Matplotlib` `Plotly` `Scikit-learn` `TensorFlow` `PyTorch` `StatsModels`
-
-### 📱 Mobile Development
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio"/>
-</p>
-
-### 🔌 APIs & Backend Services
-`REST API` `GraphQL` `JWT Auth` `OAuth` `Swagger` `WebSockets` `Socket.IO` `Firebase Auth` `Razorpay` `Stripe` `Twilio` `Google Maps API`
-
-### 💻 Software & IDEs
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,pycharm,androidstudio,postman"/>
-</p>
-
-### 🎨 UI/UX & Design
-<p align="center">
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator"/>
-</p>
-
-### 🖥️ Operating Systems
-<p align="center">
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali"/>
-</p>
-
-### 📡 IoT & Embedded Systems
-<p align="center">
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
-</p>
-
-`ESP32` `ESP8266` `NodeMCU` `GSM` `GPS` `RFID` `LoRa` `MQTT` `BLE` `ZigBee` `Embedded C`
-
----
-
-## 🔬 Research Interests
-
-<div align="center">
-
-`Artificial Intelligence` `Machine Learning` `Deep Learning` `Computer Vision` `Explainable AI` `Responsible AI` `Robotics` `Satellite Technology` `Space Research` `IoT Systems` `Smart Agriculture` `Healthcare AI` `Cyber Security` `Cloud Computing` `Edge AI`
-
-</div>
-
----
-
-## 🏅 Professional Skills
-
-| Core | Technical | Leadership |
-|---|---|---|
-| Problem Solving | System Design | Team Leadership |
-| Research & Innovation | Software Architecture | Agile Development |
-| Competitive Programming | API Development | Open Source Contribution |
-| AI Solution Design | Cloud Deployment | Technical Documentation |
-| Data Engineering | Model Deployment | Full Stack Development |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=00E5FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0D1117&border_color=00FFB3"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=00E5FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0D1117&border_color=00FFB3"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=00E5FF&fire=00FFB3&currStreakNum=FFFFFF&sideNums=c9d1d9&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=8b949e&border=00FFB3"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&bg_color=0D1117&color=00E5FF&line=6C63FF&point=00FFB3&area=true&area_color=00FFB3"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark"/>
-
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true&background=0D0B1F&ring=8A85FF&fire=8A85FF&currStreakLabel=8A85FF"/>
 
 <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
-> ⚙️ Set up the [platane/snk](https://github.com/Platane/snk) GitHub Action in your profile repo to auto-generate this snake animation on a schedule.
+<br/>
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🌍 **Earth Eye** | AI-powered Precision Agriculture Platform | `Python` `YOLO` `React` |
-| 🌳 **Atmos Guard** | Satellite-based Pollution & Forest Fire Monitoring | `AI` `GIS` `Computer Vision` |
-| 🩸 **Blood Connect** | Emergency Blood Donation Platform | `MERN Stack` `Firebase` |
-| 🧠 **AI Proctored IQ Assessment** | Secure AI Examination Platform | `React` `Node.js` `OpenCV` |
-| ❤️ **AI Healthcare Monitoring** | Real-time Patient Monitoring using AI | `LSTM` `YOLO` `IoT` |
-| 🚦 **Smart Traffic Monitoring** | OCR Vehicle Detection & Smart Enforcement | `OpenCV` `Python` |
-| 🎵 **IsaiPlay** | AI Music Streaming Platform | `React` `Firebase` |
-| 🌐 **Portfolio Website** | Personal Portfolio & Research Showcase | `React` `Tailwind CSS` |
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Oracle%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB%20Certified-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPTEL-1D4ED8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS%20Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-```text
-✔ Large Language Models (LLMs)
-✔ AI Agents
-✔ LangChain & LangGraph
-✔ RAG Systems
-✔ Kubernetes & MLOps
-✔ TensorRT
-✔ Edge AI
-✔ Cloud Native Applications
-```
-
----
-
-## 💼 Open Source Goals (2026)
-
-- ⭐ Build impactful AI products
-- ⭐ Publish research projects
-- ⭐ Contribute to open-source AI
-- ⭐ Build scalable SaaS applications
-- ⭐ Master cloud-native technologies
-- ⭐ Mentor aspiring developers
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-
-</div>
-
----
-
-## 💬 Favorite Quote
-
-<div align="center">
-
-> **"Innovation begins where curiosity meets persistence."**
-
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:6C63FF,50:00E5FF,100:00FFB3"/>
-
-<h2 align="center">⭐ Thanks for visiting my profile! ⭐</h2>
-<p align="center"><i>Building intelligent systems, solving real-world problems, and creating technology that makes a difference.</i></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F0C29,50:302B63,100:24243E"/>
