@@ -37,21 +37,48 @@
 ---
 
 ## 💫 About Me
-<div align="center">
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=00E5FF&center=false&vCenter=true&width=560&lines=%F0%9F%A7%A0+Turning+ideas+into+intelligent+systems;%E2%9A%A1+Shipping+AI+products+that+solve+real+problems;%F0%9F%8C%90+Full+stack+today%2C+autonomous+agents+tomorrow;%F0%9F%9A%80+Currently+deep+in+LLMs+%2B+Cloud+Native"/>
-</div>
-<br/>
-<img src="https://img.shields.io/badge/-AI%20Engineer-6C63FF?style=flat-square&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/-Full%20Stack%20Dev-00E5FF?style=flat-square&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/-Researcher-00FFB3?style=flat-square&labelColor=1a1a1a"/>
 
-🚀 AI Engineer | Full Stack Developer | Machine Learning Researcher | Young Scientist | Open Source Contributor
+<table>
+<tr>
+<td width="60%" valign="top">
 
-I am a passionate Young Scientist and Artificial Intelligence & Machine Learning enthusiast dedicated to building innovative, intelligent, and scalable software solutions. My interests span Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Generative AI, Large Language Models (LLMs), Cloud Computing, DevOps, IoT, and Full Stack Development.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=00E5FF&width=550&lines=%F0%9F%A7%A0+Turning+ideas+into+intelligent+systems;%E2%9A%A1+Building+AI-powered+solutions;%F0%9F%9A%80+Machine+Learning+Researcher;%F0%9F%8C%90+Full+Stack+Developer;%F0%9F%A4%96+Exploring+LLMs+%7C+Cloud+Native"/>
 
-I enjoy transforming real-world challenges into impactful technology by combining modern software engineering with cutting-edge AI research. I have experience designing AI-powered applications, developing scalable web platforms, building intelligent automation systems, and deploying cloud-native solutions.
+<br><br>
 
-<br clear="right"/>
+<img src="https://img.shields.io/badge/AI_Engineer-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full_Stack-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Researcher-00FFB3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Young_Scientist-FF9800?style=for-the-badge"/>
 
+<br><br>
+
+### 🚀 AI Engineer • Full Stack Developer • Machine Learning Researcher • Young Scientist
+
+I am a passionate **Young Scientist** and **Artificial Intelligence & Machine Learning** enthusiast dedicated to building innovative, intelligent, and scalable software solutions.
+
+My expertise includes:
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 👁️ Computer Vision
+- 💬 Generative AI & LLMs
+- ☁️ Cloud Computing
+- 🐳 DevOps
+- 🌐 Full Stack Development
+- 📡 IoT & Embedded Systems
+
+I enjoy transforming real-world challenges into impactful technology by combining modern software engineering with cutting-edge AI research.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+
+</td>
+</tr>
+</table>
 ## 🏆 Achievements & Recognitions
 
 <div align="center">
