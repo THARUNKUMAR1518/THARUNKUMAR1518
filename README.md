@@ -55,35 +55,15 @@
 
 ## 💫 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-```yaml
-Name: Tharun Kumar
-Role: AI Engineer & Full Stack Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=00E5FF&center=false&vCenter=true&width=560&lines=%F0%9F%A7%A0+Turning+ideas+into+intelligent+systems;%E2%9A%A1+Shipping+AI+products+that+solve+real+problems;%F0%9F%8C%90+Full+stack+today%2C+autonomous+agents+tomorrow;%F0%9F%9A%80+Currently+deep+in+LLMs+%2B+Cloud+Native"/>
 
-Education:
-  - B.E Artificial Intelligence & Machine Learning
+<br/>
 
-Focus:
-  - Artificial Intelligence
-  - Machine Learning
-  - Deep Learning
-  - Full Stack Development
-  - Computer Vision
-  - Cloud Computing
-  - Generative AI
+<img src="https://img.shields.io/badge/-AI%20Engineer-6C63FF?style=flat-square&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/-Full%20Stack%20Dev-00E5FF?style=flat-square&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/-Researcher-00FFB3?style=flat-square&labelColor=1a1a1a"/>
 
-Currently Learning:
-  - LLMs, LangChain, LangGraph
-  - AI Agents (CrewAI, AutoGen)
-  - Kubernetes, MLOps
-  - AWS Solutions Architecture
-
-Currently Building:
-  - AI-powered SaaS Products
-  - Open Source Research Tools
-  - Full Stack Platforms
-```
+A few things I care about, in motion rather than a wall of text — I build with AI, ship full stack products, and I'm always mid-way through learning the next framework before the last one's even finished cooling down.
 
 <br clear="right"/>
 
@@ -242,20 +222,20 @@ Currently Building:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=00E5FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0D1117&border_color=00FFB3"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=00E5FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0D1117&border_color=00FFB3"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=00E5FF&fire=00FFB3&currStreakNum=FFFFFF&sideNums=c9d1d9&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=8b949e&border=00FFB3"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&bg_color=0D1117&color=00E5FF&line=6C63FF&point=00FFB3&area=true&area_color=00FFB3"/>
 
 </div>
 
@@ -267,11 +247,11 @@ Currently Building:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark"/>
 
 </div>
 
