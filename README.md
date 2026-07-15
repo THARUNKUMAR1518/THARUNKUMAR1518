@@ -32,7 +32,6 @@
 
 </div>
 
-<p align="center"><i>🔁 A scrolling snapshot of my everyday toolkit — see the full arsenal below.</i></p>
 
 ---
 
