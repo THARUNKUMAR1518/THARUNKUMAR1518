@@ -43,7 +43,11 @@
 <br/>
 <img src="https://img.shields.io/badge/-AI%20Engineer-6C63FF?style=flat-square&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/-Full%20Stack%20Dev-00E5FF?style=flat-square&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/-Researcher-00FFB3?style=flat-square&labelColor=1a1a1a"/>
 
-A few things I care about, in motion rather than a wall of text — I build with AI, ship full stack products, and I'm always mid-way through learning the next framework before the last one's even finished cooling down.
+🚀 AI Engineer | Full Stack Developer | Machine Learning Researcher | Young Scientist | Open Source Contributor
+
+I am a passionate Young Scientist and Artificial Intelligence & Machine Learning enthusiast dedicated to building innovative, intelligent, and scalable software solutions. My interests span Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Generative AI, Large Language Models (LLMs), Cloud Computing, DevOps, IoT, and Full Stack Development.
+
+I enjoy transforming real-world challenges into impactful technology by combining modern software engineering with cutting-edge AI research. I have experience designing AI-powered applications, developing scalable web platforms, building intelligent automation systems, and deploying cloud-native solutions.
 
 <br clear="right"/>
 
