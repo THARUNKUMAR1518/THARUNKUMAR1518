@@ -43,16 +43,13 @@
 <td width="60%" valign="top">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=00E5FF&width=550&lines=%F0%9F%A7%A0+Turning+ideas+into+intelligent+systems;%E2%9A%A1+Building+AI-powered+solutions;%F0%9F%9A%80+Machine+Learning+Researcher;%F0%9F%8C%90+Full+Stack+Developer;%F0%9F%A4%96+Exploring+LLMs+%7C+Cloud+Native"/>
-
-<br><br>
-
+<br>
 <img src="https://img.shields.io/badge/AI_Engineer-6C63FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Full_Stack-00E5FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Researcher-00FFB3?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Young_Scientist-FF9800?style=for-the-badge"/>
 
-<br><br>
-
+<br>
 ### 🚀 AI Engineer • Full Stack Developer • Machine Learning Researcher • Young Scientist
 
 I am a passionate **Young Scientist** and **Artificial Intelligence & Machine Learning** enthusiast dedicated to building innovative, intelligent, and scalable software solutions.
