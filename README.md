@@ -7,23 +7,6 @@
 <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/-LeetCode-141327?style=flat-square&logo=leetcode&logoColor=8A85FF"/></a>
 
 </div>
-<br/>
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=8A85FF&center=true&vCenter=true&width=650&lines=I+build+systems%2C+not+just+features;AI+today%2C+autonomous+agents+tomorrow;Currently+deep+in+LLMs+%2B+cloud+native"/>
-</div>
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?logo=github&style=for-the-badge&color=00E5FF&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=00FFB3&label=STARS"/>
-<img src="https://img.shields.io/badge/Guinness%20World%20Record-FFD700?style=for-the-badge&logo=trophy&logoColor=black"/>
-<img src="https://img.shields.io/badge/NASA%20Space%20Apps-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
