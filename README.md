@@ -59,14 +59,8 @@ I am a passionate **Young Scientist** and **Artificial Intelligence & Machine Le
 
 My expertise includes:
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 👁️ Computer Vision
-- 💬 Generative AI & LLMs
-- ☁️ Cloud Computing
-- 🐳 DevOps
-- 🌐 Full Stack Development
-- 📡 IoT & Embedded Systems
+- 🤖 Artificial Intelligence | 🧠 Machine Learning |👁️ Computer Vision |💬 Generative AI & LLMs |☁️ Cloud Computing
+- 🐳 DevOps | 🌐 Full Stack Development | 📡 IoT & Embedded Systems
 
 I enjoy transforming real-world challenges into impactful technology by combining modern software engineering with cutting-edge AI research.
 
@@ -79,6 +73,7 @@ I enjoy transforming real-world challenges into impactful technology by combinin
 </td>
 </tr>
 </table>
+
 ## 🏆 Achievements & Recognitions
 
 <div align="center">
