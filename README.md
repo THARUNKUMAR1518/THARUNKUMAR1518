@@ -50,6 +50,7 @@
 <img src="https://img.shields.io/badge/Young_Scientist-FF9800?style=for-the-badge"/>
 
 <br>
+
 ### 🚀 AI Engineer • Full Stack Developer • Machine Learning Researcher • Young Scientist
 
 I am a passionate **Young Scientist** and **Artificial Intelligence & Machine Learning** enthusiast dedicated to building innovative, intelligent, and scalable software solutions.
