@@ -1,12 +1,11 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F0C29,50:302B63,100:24243E&text=THARUN%20KUMAR&fontSize=48&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20·%20Full%20Stack%20Developer&descAlignY=62&descSize=16&descColor=B8B5FF"/>
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-141327?style=flat-square&logo=linkedin&logoColor=8A85FF"/></a>
-<a href="mailto:YOUR_GMAIL"><img src="https://img.shields.io/badge/-Gmail-141327?style=flat-square&logo=gmail&logoColor=8A85FF"/></a>
-<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/-Portfolio-141327?style=flat-square&logo=googlechrome&logoColor=8A85FF"/></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/-Twitter-141327?style=flat-square&logo=x&logoColor=8A85FF"/></a>
-<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/-LeetCode-141327?style=flat-square&logo=leetcode&logoColor=8A85FF"/></a>
-
 </div>
+<br/>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=8A85FF&center=true&vCenter=true&width=650&lines=I+build+systems%2C+not+just+features;AI+today%2C+autonomous+agents+tomorrow;Currently+deep+in+LLMs+%2B+cloud+native"/>
+</div>
+<br/>
 
 ## 🌐 Connect With Me
 
