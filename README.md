@@ -37,9 +37,10 @@
 ---
 
 ## 💫 About Me
-
+<div align="center">
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=00E5FF&center=false&vCenter=true&width=560&lines=%F0%9F%A7%A0+Turning+ideas+into+intelligent+systems;%E2%9A%A1+Shipping+AI+products+that+solve+real+problems;%F0%9F%8C%90+Full+stack+today%2C+autonomous+agents+tomorrow;%F0%9F%9A%80+Currently+deep+in+LLMs+%2B+Cloud+Native"/>
+</div>
 <br/>
 <img src="https://img.shields.io/badge/-AI%20Engineer-6C63FF?style=flat-square&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/-Full%20Stack%20Dev-00E5FF?style=flat-square&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/-Researcher-00FFB3?style=flat-square&labelColor=1a1a1a"/>
 
